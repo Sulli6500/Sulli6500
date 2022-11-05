@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript. i want to be blockchain developer someday.
 - 💞️ I’m looking to for some interesting code i could learn here.
 - 📫 Please help me and guide me. Thanks
-
+- Im all beginner in all of this. 
 <!---
 Sulli6500/Sulli6500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
